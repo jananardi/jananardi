@@ -1,6 +1,8 @@
 # Olá, eu sou a Janaine!
 
-Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedora Backend em Delphi.
+Estudante de Análise e Desenvolvimento de Sistemas.
+
+Atualmente trabalho com desenvolvimento em Delphi, atuando principalmente no backend.
 
 ## Linguagens e Tecnologias
 
