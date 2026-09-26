@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou a Janaine!
 
-<!--
-**jananardi/jananardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedora Backend em Delphi.
 
-Here are some ideas to get you started:
+Atualmente trabalho com desenvolvimento em Delphi, atuando principalmente no backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- Delphi
+- C#
+- JavaScript
+- PostgreSQL
+
+## Linguagens mais utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jananardi&layout=compact&langs_count=8)](https://github.com/jananardi)
